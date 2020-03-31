@@ -1,6 +1,8 @@
-# doglife
+# Dog Life
 
-A new Flutter project.
+Dog Life : Social Media for Dog Lovers UI.
+
+Design Credits [Yagnesh](https://www.behance.net/gallery/73935801/Doglife-Ui-Kit-Free-for-Adobe-XD)
 
 ## Getting Started
 
